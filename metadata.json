@@ -1,0 +1,6 @@
+{
+  "name": "JWest Adventure",
+  "description": "Provider of premium outdoor experiences for Trekking, Team Building, Corporate Gathering, and Adventure Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
